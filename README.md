@@ -1,4 +1,5 @@
 # StarMax
+[Deprecated, maintained for archival purposes]
 
 [Live Site](http://starmax-fe.s3-website-us-west-1.amazonaws.com/)
 
